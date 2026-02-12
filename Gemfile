@@ -31,7 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # gem Filemaker-ruby
-gem 'filemaker'
+gem 'filemaker', '>= 0.0.18'
 
 gem 'figaro'
 
